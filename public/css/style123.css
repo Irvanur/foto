@@ -1,0 +1,13 @@
+.mar {
+    margin-bottom: 70px;
+}
+
+.scroll-1 {
+    max-width: 500px;
+    height: 30vh;
+}
+
+.scroll-2 {
+    height: 100%;
+    overflow: auto;
+}
